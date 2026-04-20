@@ -1,6 +1,14 @@
 ## Hi there 👋
 Hey, I'm Lucas ,a T Level student studying Digital Software Development while working part-time as a backend developer. I build production-ready applications that solve real business problems, specializing in Discord bots, API development, and database systems. I'm passionate about API development, security implementation, and building scalable backend architectures.
 
+[Work Account](https://github.com/lucas-rlucaslr)
+
+### Stats
+#### Personal
+![GitHub Streak](https://streak-stats.demolab.com/?user=rlucaslr&theme=radical)
+#### Work
+![GitHub Streak](https://streak-stats.demolab.com/?user=lucas-rlucaslr&theme=radical)
+
 ### Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
