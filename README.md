@@ -28,10 +28,3 @@ Hey, I'm Lucas ,a T Level student studying Digital Software Development while wo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
 </p>
-
-
-## status
-- **building**: Personal projects
-- **breaking**: my own infrastructure
-- **learning**: AI and ML
-- **ignoring**: anything that adds complexity without leverage
