@@ -4,7 +4,7 @@ Hey, I'm Lucas — a full-stack developer and T Level Digital Software Developme
 
 ### What I'm building
 
-- **Northbytes** — my software studio: custom web and mobile apps, built byte by byte.
+- **[Northbytes](https://northbytes.org)** — my software studio: custom web and mobile apps, built byte by byte.
 - **[rlucaslr.xyz](https://rlucaslr.xyz)** — my portfolio, built with Next.js.
 
 ### Stats
