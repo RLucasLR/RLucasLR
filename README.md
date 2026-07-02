@@ -34,6 +34,8 @@ Hey, I'm Lucas — a full-stack developer and T Level Digital Software Developme
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" />
+  <img src="https://cdn.simpleicons.org/expo" width="40" />
+  <img src="https://cdn.simpleicons.org/discord" width="40" />
 </p>
 
 ### Infrastructure
