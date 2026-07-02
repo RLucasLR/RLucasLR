@@ -1,13 +1,15 @@
 ## Hi there 👋
-Hey, I'm Lucas ,a T Level student studying Digital Software Development while working part-time as a backend developer. I build production-ready applications that solve real business problems, specializing in Discord bots, API development, and database systems. I'm passionate about API development, security implementation, and building scalable backend architectures.
 
-[Work Account](https://github.com/lucas-rlucaslr)
+Hey, I'm Lucas — a full-stack developer and T Level Digital Software Development student. I build production-ready applications that solve real business problems, with a focus on API development, security, and scalable backend architectures.
+
+### What I'm building
+
+- **Northbytes** — my software studio: custom web and mobile apps, built byte by byte.
+- **[rlucaslr.xyz](https://rlucaslr.xyz)** — my portfolio, built with Next.js.
 
 ### Stats
-#### Personal
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rlucaslr&theme=radical)
-#### Work
-![GitHub Streak](https://streak-stats.demolab.com/?user=lucas-rlucaslr&theme=radical)
 
 ### Languages
 <p>
@@ -21,6 +23,7 @@ Hey, I'm Lucas ,a T Level student studying Digital Software Development while wo
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
 </p>
 
 ### Infrastructure
