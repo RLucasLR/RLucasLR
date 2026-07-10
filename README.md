@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hey, I'm Lucas — a full-stack developer and T Level Digital Software Development student. I build production-ready applications that solve real business problems, with a focus on API development, security, and scalable backend architectures.
+Hey, I'm Lucas. A full-stack developer and T Level Digital Software Development student. I build production-ready applications that solve real business problems, with a focus on API development, security, and scalable backend architectures.
 
 ### What I'm building
 
