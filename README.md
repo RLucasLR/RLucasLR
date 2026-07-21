@@ -9,7 +9,7 @@ Hey, I'm Lucas. A full-stack developer and T Level Digital Software Development 
 
 ### Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=rlucaslr&theme=radical&v=2)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rlucaslr&theme=radical&v=3)
 
 ### Languages
 <p>
